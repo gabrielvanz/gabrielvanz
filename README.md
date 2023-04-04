@@ -24,7 +24,33 @@
   <a href="https://instagram.com/gabriel.vanz7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrivanz@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielvanz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
+</div>
+
+  <br/>
+  
+ ### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="120px" width="120px" alt="Warpnet" src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg"/>](https://www.compass.uol/)
+
+**QA** \
+[**Compass UOL**](https://www.compass.uol/) • Full-time \
+Linguagens & Tecnologias: `Ruby`, `Selenium`, `Appium`,\
+Projeto: [Livelo](https://www.livelo.com.br/)\
+2022 - Now
+
+  
+[<img align="left" height="120px" width="120px" src="https://scontent.fpoa2-1.fna.fbcdn.net/v/t39.30808-1/302085084_479610207507940_9039634684363626777_n.jpg?stp=cp0_dst-jpg_e15_q65_s120x120&_nc_cat=109&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=1jYbbAtHnpQAX9nJ5yS&_nc_ht=scontent.fpoa2-1.fna&oh=00_AfAsxjLlPl6cFI-LV3406PbeXZLoy4lZkkVfQ3fWlp3BUw&oe=6432507B"/>]()
+
+**Help Desk** \
+**Mega Eletrônicos LTDA** • Full-time \
+2019 - 2022
+
+<br><br>
+  
+<div align="center">
+  
   ![Snake animation](https://github.com/gabrielvanz/gabrielvanz/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
